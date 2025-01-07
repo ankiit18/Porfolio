@@ -241,7 +241,7 @@ const projects = [
   {
     title: "Tesla Stock Price Prediction Model",
     description: "Developed a stock analyzer that predicts future stock prices using Prophet, a forecasting tool created by META.",
-    image: "/tesla.jpeg",
+    image: "https://pbs.twimg.com/media/FzLAXfFWwAI6Yz9?format=jpg&name=large",
     technologies: ["Python", "TensorFlow", "Machine Learning","Deep Learning"],
     link: "https://colab.research.google.com/drive/1YX-GOnT7u2wwqZcirJKB-dMF-8NaMNqP?usp=sharing"
   },
