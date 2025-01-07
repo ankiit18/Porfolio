@@ -71,7 +71,7 @@ function App() {
               <div className="mb-8 flex justify-center">
                 <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg">
                   <img 
-                    src="src/WhatsApp Image 2025-01-07 at 14.14.17.jpeg"
+                    src="https://github.com/ankiit18/Porfolio/blob/main/src/WhatsApp%20Image%202025-01-07%20at%2014.14.17.jpeg?raw=true"
                     alt="Ankit Kumar"
                     className="w-full h-full object-cover"
                   />
