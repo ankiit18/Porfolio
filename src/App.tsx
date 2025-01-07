@@ -248,7 +248,7 @@ const projects = [
   {
     title: "Image Classifier",
     description: "I developed an ML algorithm capable of classifying handwritten numbers.",
-    image: "/clas.png",
+    image: "https://www.mdpi.com/applsci/applsci-09-03169/article_deploy/html/images/applsci-09-03169-g001.png",
     technologies: ["Machine Learning", "Keras", "TensorFlow","Mnist"],
     link: "https://colab.research.google.com/drive/17h5METSwuMw7XmOdb3XD8918WtIXu-Nh?usp=sharing"
   }
