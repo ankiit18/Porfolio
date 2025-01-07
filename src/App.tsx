@@ -71,7 +71,7 @@ function App() {
               <div className="mb-8 flex justify-center">
                 <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-blue-500 shadow-lg">
                   <img 
-                    src="/WhatsApp Image 2025-01-07 at 14.14.17.jpeg"
+                    src="https://scontent-bom1-2.cdninstagram.com/v/t51.29350-15/465062023_931858808801760_9099602782200507121_n.webp?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE3OTkuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-bom1-2.cdninstagram.com&_nc_cat=100&_nc_ohc=jpYH2EBVG2MQ7kNvgFnwc0b&_nc_gid=3b7b52b6ea844e71bda53d32c5ad53b5&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ5MTIyMjY0MDI2Mzg0OTgwMg%3D%3D.3-ccb7-5&oh=00_AYATKw0Cg5h_Yjlhf-2SZUVPakb6ih352c8zsxDzEkrSEw&oe=678303F4&_nc_sid=7a9f4b"
                     alt="Ankit Kumar"
                     className="w-full h-full object-cover"
                   />
