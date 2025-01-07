@@ -222,7 +222,7 @@ const experiences = [
     description: [
       "Train AI using promts.",
       "Use my skills of dsa, mern and Ai/Ml to correct them.",
-      "Also correct them were they are wrong.",
+      "Also correct them where they are wrong.",
     ],
   },
   {
